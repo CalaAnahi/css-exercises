@@ -4,21 +4,19 @@
   display:flex;
   align-content: center;
   justify-content: space-between;
-  
-  
+   
 }
 
 .logo {
   font-size: 48px;
-  font-weight: 900;
+  font-weight: 700;
   color: tomato;
   background: #ffffff;
-  padding: 4px 32px;
-  gap: 10px;
+  border: 2px;
+  display: flex;
+  justify-content: center;
+  margin:15px ;
   
-  
-
-
   
   
  
@@ -28,11 +26,8 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  gap: 10px;
-  
-  
-  
-
+  margin:15px ;
+  gap: 5px;
   
 }
 
@@ -42,7 +37,7 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
- ¿
-   
+  display: flex;
+  margin: 15px;
 
 }

@@ -6,7 +6,6 @@ body {
 
 img {
   width: 200px;
-  height: auto;
 }
 
 .title {
@@ -27,6 +26,19 @@ img {
   justify-content: center;
   background: #eee;
 }
+
 .elementos{
   display: flex;
+  gap:52px;
+  align-content: space-around;
+  justify-content: space-around;
 }
+
+
+.texto{
+display: flex;
+gap: 52px;
+justify-content: center;
+align-content: center;
+}
+  
